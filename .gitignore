@@ -155,3 +155,5 @@ cabal.project.local
 *.exe
 *.out
 *.app
+
+/.idea
